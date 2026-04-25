@@ -115,7 +115,7 @@ Use rapid prototyping to validate demand, improve UX, and ship practical product
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sweatbuckets&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweatbuckets&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweatbuckets&layout=compact&hide_border=true&theme=transparent&langs_count=10&count_private=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
