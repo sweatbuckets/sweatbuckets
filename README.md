@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YOONHO%20JEONG&fontSize=46&color=0:111827,100:2563eb&fontColor=ffffff&desc=Backend%20Engineer%20%7C%20Product%20Builder%20%7C%20Practical%20Thinker&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YOONHO%20JEONG&fontSize=44&fontAlignY=38&color=0:111827,100:2563eb&fontColor=ffffff&desc=Backend%20Engineer%20%7C%20Product%20Builder%20%7C%20Practical%20Thinker&descSize=16&descAlignY=60" />
 </p>
 
 <p align="center">
   I build products that solve real problems, make business sense, and scale reliably.
   <br/>
-  Driven by practical execution, sustainable product models, and strong engineering fundamentals.
+  Focused on practical execution, sustainable business models, and strong engineering fundamentals.
 </p>
 
 <p align="center">
