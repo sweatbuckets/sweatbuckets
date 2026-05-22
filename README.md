@@ -42,14 +42,12 @@ I enjoy working across business, infrastructure, and engineering layers to turn 
 
 ## Core Stack
 
-### Backend
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -57,10 +55,10 @@ I enjoy working across business, infrastructure, and engineering layers to turn 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Blockchain
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -132,16 +130,13 @@ Built backend systems for a university platform that improves discovery and rese
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sweatbuckets&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweatbuckets&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sweatbuckets&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sweatbuckets&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
