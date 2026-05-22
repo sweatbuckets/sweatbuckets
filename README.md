@@ -17,6 +17,9 @@
   <a href="mailto:imjyh01@gmail.com">
     <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://imjyh01.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
 </p>
 
 ---
